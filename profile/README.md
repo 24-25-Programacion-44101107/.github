@@ -119,7 +119,7 @@ Esta área de trabajo compartido es la que se utilizará para desarrollar el tra
 - Aceptar la tarea/assignment
 - Entrar en la organización
 
-    - [Organización](https://github.com/orgs/Programacion-44101107-2024-25/)
+    - [Organización](https://github.com/24-25-Programacion-44101107)
 
 
 - Comprobar que el repositorio ha sido creado
