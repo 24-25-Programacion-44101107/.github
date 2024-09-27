@@ -104,7 +104,7 @@ Después en el aula virtual de la Universidad aparece el enlace para la inscripc
 - Pegar el  enlace **proporcionado en al aula virtual**  en otra ventana del navegador.
   
 - Buscar el nombre del alumno en la lista mostrada, puede haber varias páginas y seleccionarlo.
-- Pulsar **join** al grupo de **estudiantes** de la asignatura.
+- Pulsar **join** al grupo de **Estudiantes** de la asignatura.
 
 Con esto se  da acceso a la organización mostrando los repositorios visibles para los alumnos por ahora
 
