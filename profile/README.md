@@ -53,7 +53,7 @@ Competencias específicas del módulo de formación básica de la orden CIN/351/
 	- No presenciales  ----          28 horas
 - Trabajo no presencial:
     - Estudio autonomo ---- 41 horas
-    - Sesiones de Trabajo Individual  ---- 20 horas
+    - Sesiones de Trabajo Autónomo  ---- 20 horas
 - Examen Final ----   1 horas
 
 
